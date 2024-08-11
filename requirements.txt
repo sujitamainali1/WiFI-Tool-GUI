@@ -1,0 +1,6 @@
+pywifi==1.1.12
+Pillow==9.5.0
+qrcode[pil]==7.3
+
+
+
